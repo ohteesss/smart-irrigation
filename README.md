@@ -18,7 +18,7 @@ Tech Stack:
 
 Hardware: ESP32, DHT22, Soil Moisture Sensor, Relay Module, Pump
 
-Software: Arduino IDE, MQTT (Mosquitto / HiveMQ / Adafruit IO), Node-RED Dashboard
+Software: Arduino IDE, HIVE MQTT 
 
 Use Case:
 Designed for smart farming and precision agriculture applications to optimise water usage and improve crop yield through intelligent automation.
